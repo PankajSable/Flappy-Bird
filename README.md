@@ -1,2 +1,2 @@
 # Flappy-Bird-Game
- game using python
+ Game is made using python module like pygame
